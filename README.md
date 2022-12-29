@@ -13,7 +13,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ibrohimbobojonov)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ibrohimbobojonov)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=ffffff)](https://www.linkedin.com/in/ibrohim-bobojonov-896181205/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=000000)](https://www.linkedin.com/in/ibrohim-bobojonov-896181205/)
 
 
 ### Languages and Tools:
