@@ -5,7 +5,7 @@
 -->
 <h1> I'm Ibrohim Bobojonov, from Uzbekistan. </h1>
 
-- 🔭 I’m currently working on infoshop.uz
+- 🔭 I’m currently working on jobo.uz
 - 🌱 I’m currently learning NodeJs, ExpressJs
 - 👯 I’m looking to collaborate on ...
 
